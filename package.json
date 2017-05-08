@@ -1,0 +1,12 @@
+{
+  "name": "yarn-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
